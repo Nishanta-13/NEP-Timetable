@@ -5,7 +5,7 @@ import React from 'react';
 import StudentPortal from './Pages/Student.jsx';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import UniversityPortal from './Pages/Home.jsx';
-import FacultyPortal from './Pages/Faculty.jsx.jsx';
+import FacultyPortal from './Pages/Faculty.jsx';
 import AdministratorPortal from './Pages/Admin.jsx';
 
 function App() {
